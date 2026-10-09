@@ -31,7 +31,7 @@ public class Magasin
 
     public void Decrire()
     {
-        Console.WriteLine("=== État du magasin ===");
+        Console.WriteLine(" État du magasin");
         Console.WriteLine($"Dépenses: {Depenses} | Revenus: {Revenus}");
         Console.WriteLine("-- Électroménager --");
         Electromenagers.ForEach(e => e.Decrire());
