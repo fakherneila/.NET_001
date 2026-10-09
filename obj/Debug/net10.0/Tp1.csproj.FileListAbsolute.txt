@@ -1,0 +1,14 @@
+/home/fakhermetba5er/Desktop/Environnement technologique (.net)/Tp1/bin/Debug/net10.0/Tp1
+/home/fakhermetba5er/Desktop/Environnement technologique (.net)/Tp1/bin/Debug/net10.0/Tp1.deps.json
+/home/fakhermetba5er/Desktop/Environnement technologique (.net)/Tp1/bin/Debug/net10.0/Tp1.runtimeconfig.json
+/home/fakhermetba5er/Desktop/Environnement technologique (.net)/Tp1/bin/Debug/net10.0/Tp1.dll
+/home/fakhermetba5er/Desktop/Environnement technologique (.net)/Tp1/bin/Debug/net10.0/Tp1.pdb
+/home/fakhermetba5er/Desktop/Environnement technologique (.net)/Tp1/obj/Debug/net10.0/Tp1.GeneratedMSBuildEditorConfig.editorconfig
+/home/fakhermetba5er/Desktop/Environnement technologique (.net)/Tp1/obj/Debug/net10.0/Tp1.AssemblyInfoInputs.cache
+/home/fakhermetba5er/Desktop/Environnement technologique (.net)/Tp1/obj/Debug/net10.0/Tp1.AssemblyInfo.cs
+/home/fakhermetba5er/Desktop/Environnement technologique (.net)/Tp1/obj/Debug/net10.0/Tp1.csproj.CoreCompileInputs.cache
+/home/fakhermetba5er/Desktop/Environnement technologique (.net)/Tp1/obj/Debug/net10.0/Tp1.dll
+/home/fakhermetba5er/Desktop/Environnement technologique (.net)/Tp1/obj/Debug/net10.0/refint/Tp1.dll
+/home/fakhermetba5er/Desktop/Environnement technologique (.net)/Tp1/obj/Debug/net10.0/Tp1.pdb
+/home/fakhermetba5er/Desktop/Environnement technologique (.net)/Tp1/obj/Debug/net10.0/Tp1.genruntimeconfig.cache
+/home/fakhermetba5er/Desktop/Environnement technologique (.net)/Tp1/obj/Debug/net10.0/ref/Tp1.dll
